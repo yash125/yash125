@@ -1,7 +1,7 @@
 ### Hi there, I am Yash 👋
 🔭 I’m interested in Data Structures, Algorithms and Development
 
-🌱 I’m currently learning Angular 
+🌱 I’m currently working on ReactJS 
 
 
 #### Tools and Languages
